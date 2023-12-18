@@ -29,7 +29,7 @@
   <a href="mailto:danielmagregorini123@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[AQUI VAI O LINK DO LINKEDIN](https://www.linkedin.com/in/daniel-mahl-gregorini-812b131b4/)" target="_blank">
+  <a href="https://br.linkedin.com/in/daniel-mahl-gregorini-812b131b4" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
