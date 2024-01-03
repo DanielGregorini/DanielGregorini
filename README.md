@@ -1,4 +1,4 @@
-### Hi, i'm Daniel Mahl Gregorini, a computer science student.👋
+### Hi, i'm Daniel M. Gregorini, a computer science student.👋
 
 <div align="center">
   <a href="https://github.com/DanielGregorini">
