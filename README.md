@@ -8,10 +8,6 @@ I'm a **Full Stack Developer** and an **MSc Candidate in Software Engineering** 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielGregorini&theme=dracula" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielGregorini&theme=dracula" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielGregorini&theme=dracula" height="165" />
 </div>
