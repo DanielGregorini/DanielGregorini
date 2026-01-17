@@ -16,9 +16,6 @@ I'm a **Full Stack Developer** and an **MSc Candidate in Software Engineering** 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielGregorini&theme=dracula" height="165" />
 </div>
 
-
-> ℹ️ These cards are more reliable than streak stats and work consistently.
-
 ---
 
 ### 🛠️ Technologies & Tools
