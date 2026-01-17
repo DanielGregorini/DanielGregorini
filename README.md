@@ -8,9 +8,14 @@ I'm a **Full Stack Developer** and an **MSc Candidate in Software Engineering** 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielGregorini&show_icons=true&theme=dracula&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGregorini&layout=compact&theme=dracula&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielGregorini&theme=dracula" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielGregorini&theme=dracula" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielGregorini&theme=dracula" height="165" />
+</div>
+
 
 > ℹ️ These cards are more reliable than streak stats and work consistently.
 
