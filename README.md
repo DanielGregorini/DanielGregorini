@@ -1,42 +1,62 @@
-### Hi, i'm Daniel M. Gregorini, a computer science student.👋
+## Hi, I'm Daniel M. Gregorini 👋
+
+I'm a **Full Stack Developer** and an **MSc Candidate in Software Engineering** at  
+**Instituto Politécnico de Setúbal (IPS), Portugal**.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/DanielGregorini">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielGregorini&theme=dracula" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielGregorini&show_icons=true&theme=dracula&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGregorini&layout=compact&theme=dracula&hide_border=true" height="170" />
 </div>
+
+> ℹ️ These cards are more reliable than streak stats and work consistently.
+
+---
+
+### 🛠️ Technologies & Tools
+
+<div align="center" style="display: inline_block"><br>
+  <img alt="C" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img alt="C++" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="C#" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img alt="Java" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img alt="Kotlin" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
+  <img alt="Python" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="JavaScript" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img alt="React" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Next.js" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img alt="HTML5" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+</div>
+
+---
+
+### 🌐 Connect with me
+
 <div align="center">
-  <a href="https://github.com/DanielGregorini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGregorini&layout=compact&langs_count=7&theme=dracula" />
-  </a>
-</div>
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dev-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  <img align="center" alt="Dev-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Dev-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Dev-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="Dev-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Dev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Dev-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-</div>
-
-
-##
-<div>
-  </a>
   <a href="https://www.instagram.com/danielmgregorini" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:danielmagregorini123@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://br.linkedin.com/in/daniel-mahl-gregorini-812b131b4" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
