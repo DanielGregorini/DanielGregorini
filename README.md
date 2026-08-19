@@ -67,7 +67,7 @@ I'm a **Full Stack Developer** and an **MSc Candidate in Software Engineering** 
   <a href="mailto:danielmagregorini123@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/danielmgregorini" target="_blank">
+  <a href="https://www.instagram.com/danielgregorini" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
