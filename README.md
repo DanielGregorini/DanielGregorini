@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel M. Gregorini 👋
 
-I'm a **Full Stack Developer** and an **MSc Candidate in Software Engineering** at  
+I'm a **Full Stack Developer** and a **Master's student in Software Engineering** at  
 **Universidade Politécnica de Setúbal**, Portugal.
 
 ---
@@ -31,6 +31,13 @@ I'm a **Full Stack Developer** and an **MSc Candidate in Software Engineering** 
     <td>
       <img alt="TypeScript, React, Next.js, Tailwind CSS" height="42"
         src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>
+      <img alt="Kotlin, Android Studio" height="42"
+        src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
     </td>
   </tr>
   <tr>
