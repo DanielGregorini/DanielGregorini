@@ -1,4 +1,4 @@
-## Hi, I'm Daniel M. Gregorini 👋
+## Hi, I'm Daniel Mahl Gregorini 👋
 
 I'm a **Full Stack Developer** and a **Master's student in Software Engineering** at  
 **Universidade Politécnica de Setúbal**, Portugal.
